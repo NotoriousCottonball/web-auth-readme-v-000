@@ -1298,6 +1298,7 @@ Filter chain halted as :authenticate_user rendered or redirected
 Completed 302 Found in 14ms (ActiveRecord: 0.0ms)
 
 
+<<<<<<< HEAD
 Started GET "/" for 70.170.70.9 at 2019-05-07 03:20:43 +0000
 Cannot render console from 70.170.70.9! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from block (3 levels) in <class:Railtie> at /usr/local/rvm/gems/ruby-2.6.1/gems/activerecord-5.0.7.2/lib/active_record/railtie.rb:113)
@@ -1307,3 +1308,5 @@ Filter chain halted as :authenticate_user rendered or redirected
 Completed 302 Found in 15ms (ActiveRecord: 0.0ms)
 
 
+=======
+>>>>>>> 4721cca6fcd2bb79f73c294b8d87028b35bc5def
